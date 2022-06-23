@@ -22,7 +22,5 @@
                 </div>
             </div><!--End Sortable Masonry-->
         </div>
-
     </section>
-
 @endsection
