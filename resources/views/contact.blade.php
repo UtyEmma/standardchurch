@@ -29,6 +29,16 @@
                 	<!--form-box-->
                     <div class="form-box default-form">
                         <div>
+                            <h4>NORTH AMERICA</h4>
+                            <ul>
+                                <li style="font-size: 15px; margin: 10px 0;">
+                                    <i class="fa-solid fa-place-of-worship text-primary" style="margin-right: 10px;"></i>
+                                    {{env('CENTER_FOUR')}}
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div>
                             <h4>AFRICA</h4>
                             <ul>
                                 <li style="font-size: 15px; margin: 10px 0;">
@@ -42,16 +52,6 @@
                                 <li style="font-size: 15px; margin: 10px 0;">
                                     <i class="fa-solid fa-place-of-worship text-primary" style="margin-right: 10px;"></i>
                                     {{env('CENTER_THREE')}}
-                                </li>
-                            </ul>
-                        </div>
-
-                        <div>
-                            <h4>NORTH AMERICA</h4>
-                            <ul>
-                                <li style="font-size: 15px; margin: 10px 0;">
-                                    <i class="fa-solid fa-place-of-worship text-primary" style="margin-right: 10px;"></i>
-                                    {{env('CENTER_FOUR')}}
                                 </li>
                             </ul>
                         </div>
@@ -69,7 +69,7 @@
                                     <div class="inner">
                                         <div class="icon"><span class="flaticon-placeholder"></span></div>
                                         <h4>ADDRESS</h4>
-                                        <div class="text">{{env('CENTER_ONE')}}</div>
+                                        <div class="text">{{env('CENTER_FOUR')}}</div>
                                     </div>
                                 </div>
                             </div>

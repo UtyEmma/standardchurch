@@ -106,7 +106,7 @@
 
     @include('components.sections.corevalues')
 
-    @include('components.sections.give')
+    {{-- @include('components.sections.give') --}}
 
     <section class="gallery-section">
         <div class="auto-container">

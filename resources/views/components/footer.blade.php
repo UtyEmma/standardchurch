@@ -44,7 +44,8 @@
                                 	<h2>Contact Us</h2>
                                     <div class="widget-content">
                                     	<ul class="contact-info">
-                                            <li>{{env('CENTER_ONE')}}</li>
+                                            <li>- {{env('CENTER_FOUR')}}</li>
+                                            <li>- {{env('CENTER_ONE')}}</li>
                                             <li>{{env('PHONE_NO')}}</li>
                                         </ul>
                                     </div>

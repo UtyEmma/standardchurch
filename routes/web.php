@@ -18,4 +18,4 @@ Route::get('/', [PageController::class, 'home']);
 Route::get('/about', [PageController::class, 'about']);
 Route::get('/gallery', [PageController::class, 'gallery']);
 Route::get('/contact', [PageController::class, 'contact']);
-Route::get('/give', [PageController::class, 'donate']);
+// Route::get('/give', [PageController::class, 'donate']);

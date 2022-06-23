@@ -14,7 +14,7 @@
                     <div class="top-left">
                     	<ul class="clearfix">
                         	<li><span class="icon flaticon-technology"></span>{{env('PHONE_NO')}}</li>
-                            <li><span class="icon flaticon-note"></span>{{env('CENTER_ONE')}}</li>
+                            <li><span class="icon flaticon-note"></span>{{env('CENTER_FOUR')}}</li>
                         </ul>
                     </div>
 
@@ -66,7 +66,7 @@
                                     <li><a href="/">Home</a></li>
                                     <li ><a href="/about">About Us</a></li>
                                     <li><a href="/gallery">Gallery</a></li>
-                                    <li><a href="/give">Give</a></li>
+                                    {{-- <li><a href="/give">Give</a></li> --}}
                                     <li><a href="/contact">Contact</a></li>
 
                                  </ul>
@@ -110,7 +110,7 @@
                     <li><a href="/" style="color: #272727 !important;">Home</a></li>
                     <li ><a href="/about" style="color: #272727 !important;">About Us</a></li>
                     <li><a href="/gallery" style="color: #272727 !important;">Gallery</a></li>
-                    <li><a href="/give" style="color: #272727 !important;">Give</a></li>
+                    {{-- <li><a href="/give" style="color: #272727 !important;">Give</a></li> --}}
                     <li><a href="/contact" style="color: #272727 !important;">Contact</a></li>
                 </ul>
             </div><!-- /.Side-menu -->
