@@ -5,8 +5,8 @@
     <section class="main-slider">
         <div class="tp-banner-container">
             <div class="tp-banner" style="display: flex; align-items: center; justify-content: center; background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url({{asset('images/main/sbc-5.jpg')}}); background-repeat: no-repeat; background-size: cover; ">
-                <div>
-                    <h2 class="text-center">STANDARD BIBLE <span class="theme_color">CHURCH</span> <br>INTERNATIONAL</h2>
+                <div class="d-none">
+                    <h2 class="text-center main-text">STANDARD BIBLE <span class="theme_color">CHURCH</span> <br>INTERNATIONAL</h2>
                     <div class="text text-center">Building lives, building destinies</div>
                     <div class="text-center">
                         <a href="/about" class="theme-btn btn-style-one" style="margin-top: 20px;">ABOUT US</a>

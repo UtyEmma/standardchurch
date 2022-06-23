@@ -18,7 +18,7 @@
                 <div class="clearfix">
                     <div class="inner">
                         <div class="inner-box">
-                            <div class="icon-box"><i class="fa-solid fa-users"></i></div>
+                            <div class="icon-box"><i class="fa-solid fa-users text-primary"></i></div>
                             <div class="content">
                                 <div class="count">01</div>
                                 <h3>LEADERSHIP</h3>
@@ -34,7 +34,7 @@
                 <div class="clearfix">
                     <div class="inner">
                         <div class="inner-box">
-                            <div class="icon-box"><span class=""><i class="fa-solid fa-bullhorn"></i></span></div>
+                            <div class="icon-box"><span class=""><i class="fa-solid fa-bullhorn text-primary"></i></span></div>
                             <div class="content">
                                 <div class="count">02</div>
                                 <h3>EVANGELISM</h3>
@@ -50,7 +50,7 @@
                 <div class="clearfix">
                     <div class="inner">
                         <div class="inner-box">
-                            <div class="icon-box"><span><i class="fa-solid fa-receipt"></i></span></div>
+                            <div class="icon-box"><span><i class="fa-solid fa-receipt text-primary"></i></span></div>
                             <div class="content">
                                 <div class="count">03</div>
                                 <h3>ACCOUNTABILITY</h3>
@@ -66,7 +66,7 @@
                 <div class="clearfix">
                     <div class="inner">
                         <div class="inner-box">
-                            <div class="icon-box"><i class="fa-solid fa-heart"></i></div>
+                            <div class="icon-box"><i class="fa-solid fa-heart text-primary"></i></div>
                             <div class="content">
                                 <div class="count">04</div>
                                 <h3>DILIGENCE</h3>

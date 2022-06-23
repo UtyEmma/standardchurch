@@ -27,9 +27,8 @@
 
             <!--Image Column-->
             <div class="image-column col-lg-5 col-md-6 col-sm-12 col-xs-12">
-                <figure class="image-box"><img src="images/resource/featured-image-7.jpg" alt=""></figure>
+                <figure class="image-box"><img src="{{asset('images/main/sbc-5.jpg')}}" alt=""></figure>
             </div>
-
         </div>
     </div>
 </section>
