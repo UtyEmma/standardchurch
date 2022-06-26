@@ -13,7 +13,7 @@
                     <!--Top Left-->
                     <div class="top-left">
                     	<ul class="clearfix">
-                        	<li><span class="icon flaticon-technology"></span>{{env('PHONE_NO')}}</li>
+                        	<li><span class="icon flaticon-technology"></span>{{env('MAIN_PHONE_NO')}}</li>
                             <li><span class="icon flaticon-note"></span>{{env('CENTER_FOUR')}}</li>
                         </ul>
                     </div>

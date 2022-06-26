@@ -46,7 +46,7 @@
                                     	<ul class="contact-info">
                                             <li>- {{env('CENTER_FOUR')}}</li>
                                             <li>- {{env('CENTER_ONE')}}</li>
-                                            <li>{{env('PHONE_NO')}}</li>
+                                            <li>{{env('MAIN_PHONE_NO')}}</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -61,7 +61,7 @@
         <!--Footer Bottom-->
          <div class="footer-bottom">
          	<div class="auto-container">
-            	<div class="copyright-text">Copyright &copy; {{now()->format('Y')}}. All Rights Reserved | GrandScale Digital</div>
+            	<div class="copyright-text">Copyright &copy; {{now()->format('Y')}}. All Rights Reserved | <a href="{{env('GRANDSCALE_LINK')}}" style="color: white;">GrandScale Digital</a></div>
             </div>
         </div>
     </footer>

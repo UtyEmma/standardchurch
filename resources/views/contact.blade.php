@@ -88,7 +88,7 @@
                                     <div class="inner">
                                         <div class="icon"><span class="flaticon-technology"></span></div>
                                         <h4>PHONE NO</h4>
-                                        <div class="text">{{env('PHONE_NO')}}</div>
+                                        <div class="text">{{env('MAIN_PHONE_NO')}}</div>
                                     </div>
                                 </div>
 
